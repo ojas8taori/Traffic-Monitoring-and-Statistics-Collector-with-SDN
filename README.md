@@ -237,9 +237,6 @@ Show evidence of:
 - throughput via iperf
 - flow counters via flow stats and flow-table dumps
 
-5. Explanation, Viva and Validation:
-- test scenarios and expected outcomes included
-- Wireshark/tshark validation path included
 
 ## 8. Troubleshooting
 
