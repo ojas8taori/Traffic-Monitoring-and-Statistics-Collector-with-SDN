@@ -20,6 +20,11 @@ Thumbs.db
 # Keep only large packet captures ignored by default.
 results/**/*.pcap
 
+DEMO_EXECUTION_GUIDE.md
+GIT_PUBLISH_GUIDE.md
+PROJECT_CONTEXT.txt
+
+
 # Re-include evidence files even though we ignore *.log globally
 !results/**/*.log
 !results/**/*.txt
