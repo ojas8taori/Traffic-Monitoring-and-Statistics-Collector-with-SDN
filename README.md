@@ -32,7 +32,7 @@ Required outcomes covered:
 
 ## 3. Setup (WSL2)
 
-Use Ubuntu 22.04 in WSL2.
+Use Ubuntu 22.04 or newer in WSL2.
 
 ### 3.1 Install system dependencies
 
