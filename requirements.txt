@@ -1,0 +1,2 @@
+# Keep Ryu installation separate (see README) due Python/setuptools build compatibility.
+netaddr>=0.8.0

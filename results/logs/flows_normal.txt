@@ -1,0 +1,3 @@
+OFPST_FLOW reply (OF1.3) (xid=0x2):
+ cookie=0x0, duration=777.205s, table=0, n_packets=20, n_bytes=840, priority=100,arp actions=FLOOD
+ cookie=0x0, duration=777.205s, table=0, n_packets=43, n_bytes=3434, priority=0 actions=CONTROLLER:65535

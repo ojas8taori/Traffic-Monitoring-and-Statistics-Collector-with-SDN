@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Logs and runtime files
+*.log
+*.pid
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Evidence under results/ should be committed for submission.
+# Keep only large packet captures ignored by default.
+results/**/*.pcap
+
+# Re-include evidence files even though we ignore *.log globally
+!results/**/*.log
+!results/**/*.txt
+!results/**/*.csv
+!results/**/*.png
+!results/**/*.jpg
+!results/**/*.jpeg
+
+!results/.gitkeep

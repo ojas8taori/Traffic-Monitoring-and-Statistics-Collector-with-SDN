@@ -1,0 +1,424 @@
+[STATS] 2026-04-15 04:31:38 | dpid=0000000000000001
+  priority=100 | packets=0 | bytes=0 | duration=0s | match=eth_type=2054
+TOTAL packets=0 bytes=0
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:31:48 | dpid=0000000000000001
+  priority=100 | packets=0 | bytes=0 | duration=10s | match=eth_type=2054
+TOTAL packets=0 bytes=0
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:31:58 | dpid=0000000000000001
+  priority=100 | packets=0 | bytes=0 | duration=20s | match=eth_type=2054
+TOTAL packets=0 bytes=0
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:32:08 | dpid=0000000000000001
+  priority=100 | packets=0 | bytes=0 | duration=30s | match=eth_type=2054
+TOTAL packets=0 bytes=0
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:32:18 | dpid=0000000000000001
+  priority=1 | packets=20907 | bytes=1403138 | duration=2s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=67172 | bytes=101692676 | duration=2s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=2 | bytes=84 | duration=40s | match=eth_type=2054
+TOTAL packets=88081 bytes=103095898
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:32:31 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=12s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=12s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=50s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:32:41 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=22s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=22s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=60s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:32:51 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=32s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=32s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=70s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:33:01 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=42s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=42s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=80s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:33:11 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=52s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=52s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=90s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:33:21 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=62s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=62s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=100s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:33:31 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=72s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=72s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=110s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:33:41 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=82s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=82s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=120s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:33:51 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=92s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=92s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=130s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:34:01 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=102s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=102s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=140s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:34:14 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=112s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=112s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=150s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:34:24 | dpid=0000000000000001
+  priority=1 | packets=71123 | bytes=4765834 | duration=122s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=237800 | bytes=360021004 | duration=122s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=4 | bytes=168 | duration=160s | match=eth_type=2054
+TOTAL packets=308927 bytes=364787006
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:34:34 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=170s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:34:46 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=180s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:34:56 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=190s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:35:06 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=200s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:35:16 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=210s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:35:26 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=220s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:35:39 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=230s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:35:49 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=240s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:35:59 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=250s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:36:10 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=260s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:36:20 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=270s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:36:30 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=280s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:36:43 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=290s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:36:53 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=300s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:37:03 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=310s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:37:14 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=320s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:37:24 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=330s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:37:34 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=340s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:37:44 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=350s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:37:57 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=360s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:38:07 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=370s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:38:17 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=380s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:38:30 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=390s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:38:40 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=400s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:38:50 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=410s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:39:03 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=420s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:39:13 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=430s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:39:23 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=440s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:39:35 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=450s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:39:45 | dpid=0000000000000001
+  priority=100 | packets=4 | bytes=168 | duration=460s | match=eth_type=2054
+TOTAL packets=4 bytes=168
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:39:55 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=2s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=2s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=2s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=2s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=2s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=2s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=8 | bytes=336 | duration=470s | match=eth_type=2054
+TOTAL packets=14 bytes=924
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:40:08 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=12s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=12s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=12s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=12s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=12s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=12s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=480s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:40:18 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=22s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=22s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=22s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=22s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=22s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=22s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=490s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:40:28 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=32s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=32s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=32s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=32s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=32s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=32s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=500s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:40:38 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=42s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=42s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=42s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=42s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=42s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=42s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=510s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:40:50 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=52s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=52s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=52s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=52s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=52s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=52s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=520s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:41:00 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=62s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=62s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=62s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=62s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=62s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=62s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=530s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:41:10 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=72s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=72s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=72s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=72s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=72s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=72s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=540s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:41:23 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=82s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=82s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=82s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=82s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=82s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=82s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=550s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:41:33 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=92s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=92s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=92s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=92s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=92s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=92s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=560s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:41:43 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=102s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=102s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=102s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=102s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=102s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=102s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=570s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:41:55 | dpid=0000000000000001
+  priority=1 | packets=1 | bytes=98 | duration=112s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=1 | bytes=98 | duration=112s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=112s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=112s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=1 | bytes=98 | duration=112s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:03
+  priority=1 | packets=1 | bytes=98 | duration=112s | match=in_port=3, eth_src=00:00:00:00:00:03, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=16 | bytes=672 | duration=580s | match=eth_type=2054
+TOTAL packets=22 bytes=1260
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:42:05 | dpid=0000000000000001
+  priority=1 | packets=6 | bytes=588 | duration=122s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=6 | bytes=588 | duration=122s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=100 | packets=16 | bytes=672 | duration=590s | match=eth_type=2054
+TOTAL packets=28 bytes=1848
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:42:15 | dpid=0000000000000001
+  priority=1 | packets=6 | bytes=588 | duration=132s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=6 | bytes=588 | duration=132s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=100 | packets=20 | bytes=840 | duration=600s | match=eth_type=2054
+TOTAL packets=32 bytes=2016
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:42:28 | dpid=0000000000000001
+  priority=1 | packets=6 | bytes=588 | duration=142s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=6 | bytes=588 | duration=142s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=100 | packets=20 | bytes=840 | duration=610s | match=eth_type=2054
+TOTAL packets=32 bytes=2016
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:42:38 | dpid=0000000000000001
+  priority=1 | packets=6 | bytes=588 | duration=152s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=1 | packets=6 | bytes=588 | duration=152s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=100 | packets=20 | bytes=840 | duration=620s | match=eth_type=2054
+TOTAL packets=32 bytes=2016
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:42:48 | dpid=0000000000000001
+  priority=1 | packets=30269 | bytes=2027850 | duration=162s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=99972 | bytes=151343388 | duration=162s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=630s | match=eth_type=2054
+TOTAL packets=130261 bytes=153372078
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:42:58 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=172s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=172s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=640s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:43:08 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=182s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=182s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=650s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:43:21 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=192s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=192s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=660s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:43:31 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=202s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=202s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=670s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:43:41 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=212s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=212s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=680s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:43:53 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=222s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=222s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=690s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:44:03 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=232s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=232s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=700s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:44:13 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=242s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=242s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=710s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:44:23 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=252s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=252s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=720s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
+[STATS] 2026-04-15 04:44:36 | dpid=0000000000000001
+  priority=1 | packets=142161 | bytes=9506022 | duration=262s | match=in_port=2, eth_src=00:00:00:00:00:02, eth_dst=00:00:00:00:00:01
+  priority=1 | packets=450436 | bytes=681943308 | duration=262s | match=in_port=1, eth_src=00:00:00:00:00:01, eth_dst=00:00:00:00:00:02
+  priority=100 | packets=20 | bytes=840 | duration=730s | match=eth_type=2054
+TOTAL packets=592617 bytes=691450170
+--------------------------------------------------------------------------------
