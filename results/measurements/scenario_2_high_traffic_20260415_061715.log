@@ -1,1 +1,5 @@
-mininet> mininet> mininet> 
+[INFO] Scenario: scenario_2_high_traffic
+[INFO] Log timestamp: 2026-04-15 06:17:15
+[WARN] Mininet session started, but no measurement commands or test results were captured in this run.
+[WARN] This artifact does not contain throughput, latency, packet-loss, or pass/fail data.
+[ACTION] Re-run the scenario and record the actual measurements before using this log as a benchmark result.

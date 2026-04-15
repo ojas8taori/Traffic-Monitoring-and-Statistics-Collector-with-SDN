@@ -209,7 +209,10 @@ openflow_v4
 tshark example:
 
 ~~~bash
-sudo tshark -i lo -f "tcp port 6633" -Y "openflow_v4" -w results/logs/openflow_capture.pcap
+sudo tshark -i lo -f "tcp port 6633" -w results/logs/openflow_capture.pcap
+
+# Apply the display filter when reading (or in Wireshark).
+tshark -r results/logs/openflow_capture.pcap -Y "openflow_v4" | head
 ~~~
 
 Show evidence of:

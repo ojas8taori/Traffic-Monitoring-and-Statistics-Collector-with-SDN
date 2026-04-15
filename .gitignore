@@ -24,6 +24,7 @@ DEMO_EXECUTION_GUIDE.md
 GIT_PUBLISH_GUIDE.md
 PROJECT_CONTEXT.txt
 VIVA_PREP_GUIDE.md
+COMMAND_CHEAT_SHEET.md
 
 # Re-include evidence files even though we ignore *.log globally
 !results/**/*.log
