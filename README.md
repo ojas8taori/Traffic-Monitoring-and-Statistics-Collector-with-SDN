@@ -267,18 +267,12 @@ Show evidence of:
 - re-run: python tools/fix_ryu_eventlet.py
 - retry: ryu-manager --version
 
-4. No ALERT messages:
+6. No ALERT messages:
 - lower thresholds in environment variables
 - run longer iperf duration or parallel streams
 
-## 9. Submission Checklist
 
-- code pushed to public GitHub repo
-- README includes setup, expected output, and actual observed output
-- proof screenshots/logs attached under results/
-- references included below
-
-## 10. References
+## 9. References
 
 - Mininet: http://mininet.org/
 - Ryu documentation: https://ryu.readthedocs.io/
