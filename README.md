@@ -30,7 +30,6 @@ Required outcomes covered:
 - requirements.txt: Python dependencies for controller
 - tools/fix_ryu_eventlet.py: one-time patch for Eventlet API compatibility
 - results/: folder for screenshots, logs, and measurements
-- DEMO_EXECUTION_GUIDE.md: step-by-step runbook for scenarios + evidence
 
 ## 3. Setup (WSL2)
 
