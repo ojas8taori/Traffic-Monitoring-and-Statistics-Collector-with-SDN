@@ -8,7 +8,7 @@ set -euo pipefail
 
 source venv/bin/activate
 
-: "${STATS_INTERVAL:=10}"
+: "${STATS_INTERVAL:=5}"
 : "${ALERT_THRESHOLD_BYTES:=1500000}"
 : "${ALERT_THRESHOLD_PACKETS:=1500}"
 

@@ -32,7 +32,7 @@ class TrafficMonitor(app_manager.RyuApp):
         self.mac_to_port = {}
         self.datapaths = {}
 
-        self.stats_interval = int(os.getenv("STATS_INTERVAL", "10"))
+        self.stats_interval = int(os.getenv("STATS_INTERVAL", "5"))
         self.alert_threshold_bytes = int(os.getenv("ALERT_THRESHOLD_BYTES", "1500000"))
         self.alert_threshold_packets = int(os.getenv("ALERT_THRESHOLD_PACKETS", "1500"))
         self.stats_log_file = os.getenv("STATS_LOG_FILE", "/tmp/sdn_flow_stats.log")

@@ -83,7 +83,7 @@ Important: start controller first, then Mininet.
 
 ~~~bash
 source venv/bin/activate
-STATS_INTERVAL=10 ALERT_THRESHOLD_BYTES=1500000 ALERT_THRESHOLD_PACKETS=1500 \
+STATS_INTERVAL=5 ALERT_THRESHOLD_BYTES=1500000 ALERT_THRESHOLD_PACKETS=1500 \
 ryu-manager traffic_monitor.py
 ~~~
 
